@@ -1,6 +1,3 @@
-# IFT6135_representation_learning
- 
- 
 ## Assignment 1:
 
 This repository contains our solutions to the practical part of Aaron Courville's Deep Learning first assignement - Winter 2019.
